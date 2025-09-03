@@ -1,6 +1,6 @@
-# QA Automation Demo (Cypress) 🚀
+# QA Automation Demo (Cypress) 
 
-Projet démo pour montrer des compétences SDET/QA :
+Projet démo SDET/QA :
 - E2E UI (login, recherche)
 - Tests API
 - Page Object Model (POM) léger
